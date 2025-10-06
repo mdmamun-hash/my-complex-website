@@ -1,0 +1,14 @@
+body{
+    display: grid;
+    justify-content: center;
+    background-color: rgb(227, 227, 228);
+    font-weight: 800;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    /* border: 10px solid gold; */
+    border-radius: 15px;
+    
+}
